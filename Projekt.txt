@@ -1,0 +1,12 @@
+Gra "Nastepna Stacja"
+
+Funkcjonmalnosc
+1- ruch
+
+2- menu
+
+3 - omijanie przeszkod
+
+4 - fight w styslu pokemon
+
+
